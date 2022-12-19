@@ -1,0 +1,58 @@
+*{
+    scroll-behavior: smooth;
+}
+
+
+h1, h2, .navbar-brand, figcaption{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 600;
+}
+
+
+p{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    text-align: justify;
+}
+
+
+.menuNav li{
+    padding-right: 40px;
+}
+
+.menuNav{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+.menuNav li a:hover{
+    color: #fff;
+}
+
+.informationLogo{
+    width: 300px;
+}
+
+#homeArticle{
+    background-color: #016fb9;
+    height: 100vh;
+    border-bottom: black solid 10px;
+}
+
+.inicio{
+    color: #fff;
+    border-radius: 40px;
+}
+
+#aboutMe, #mySkills{
+    border-bottom: 5px solid #DA4167;
+    color: #000;
+}
+
+footer{
+    height: 60px;
+}
+
+footer p{
+    color:#fff;
+}
